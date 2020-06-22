@@ -10,4 +10,4 @@ A modal tem a funcionalidade de maximizar que foi implementada utilizando javasc
 
 Abaixo as imagens do projeto.
 
-![] (/images/screen01.png)
+![] (images/screen01.png)
