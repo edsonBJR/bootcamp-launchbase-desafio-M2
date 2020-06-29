@@ -12,15 +12,6 @@ for (let card of cards) {
 const maximize = document.querySelector('.max')
 const modal = document.querySelector('.modal')
 
-// for (let card of cards) {
-//     maximize.addEventListener("click", function() {
-//         modal.classList.add('maximize')
-//         const contentId = card.getAttribute("id")
-//         if (modal.classList.contains('maximize')) {
-//             modalOverlay.querySelector("iframe").src = `https://www.rocketseat.com.br/${contentId}`
-//         }
-//     })
-// }
 
 for (let card of cards) {
     maximize.addEventListener("click", function() {
